@@ -1,0 +1,11 @@
+.dropdown {-webkit-backface-visibility: hidden;}
+.gf-menu .item.icon [class^="icon-"], .gf-menu .item.icon [class*=" icon-"] {-webkit-font-smoothing: inherit;}
+canvas {height: auto !important;}
+
+/* Demo */
+.rt-effect-slide, .rt-effect-border {-webkit-transform: translateZ(0);}
+@media (min-width: 769px) {
+body.layout-mode-responsive .fp-top-b.rt-block, body.layout-mode-responsive .fp-top-c.rt-block {position: absolute;}
+body.layout-mode-responsive.-rt-iridescent-style #rt-top .rt-container [class*="rt-grid"] {position: relative;}
+}
+body .fp-roksprocket-strips .module-content {width: 83.33334%;}

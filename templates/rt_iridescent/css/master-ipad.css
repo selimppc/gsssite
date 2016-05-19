@@ -1,0 +1,8 @@
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	body.layout-mode-responsive .fp-top-c {
+		padding-bottom: 18px;
+	}
+	body.layout-mode-responsive .fp-bottom-form .readon {
+		padding: 15px 10px;
+	}
+}
