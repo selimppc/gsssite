@@ -15,7 +15,7 @@ class JConfig {
 	public $host = 'localhost';
 	public $user = 'root';
 	public $password = '';
-	public $db = 'gss1';
+	public $db = 'gsssite';
 	public $dbprefix = 'gss_';
 	public $live_site = '';
 	public $secret = 'N4aSF6t2raqLvcuJ';
